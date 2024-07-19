@@ -1,0 +1,3 @@
+Synchronizing state of dnsmasq.service with SysV service script with /lib/systemd/systemd-sysv-install.
+Executing: /lib/systemd/systemd-sysv-install enable dnsmasq
+Rebooting the system now. Please wait for the reboot to complete and then run post_reboot.sh script.
